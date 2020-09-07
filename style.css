@@ -1,0 +1,41 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+
+
+/* div a{
+
+  position : relative;
+  padding: 15px 30px;
+  display : inline-block;
+  color: lightblue;
+  text-transform: capitalize;
+  letter-spacing: 4px;
+  font-size : 25px;
+  overflow: hidden;
+  transition : 0.2s;
+  text-decoration: none;
+
+}
+
+div a:hover{
+
+  color: #4463F7;
+  background: lightblue;
+  box-shadow: 0 0 10px lightblue, 0 0 60px lightblue, 0 0 100px lightblue;
+  transition-delay: 0.2s;
+
+} */
+
+.mycanvas{
+
+
+  box-shadow: 0 0 40px #C2B280, 0 0 90px #C2B280, 0 0 130px #C2B280;
+  transition-delay: 0.2s;
+
+}
